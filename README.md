@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lilAlex419
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ... MERN Stack
+- 💞️ I’m looking to collaborate on ... MERN Stack Projects
+- 📫 How to reach me ... kinghornmarketing@gmail.com
