@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lilAlex419
+- 👋 Hi, I’m @Khontrol
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... MERN Stack
 - 💞️ I’m looking to collaborate on ... MERN Stack Projects
